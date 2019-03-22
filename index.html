@@ -1,0 +1,68 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+
+<nav> 
+     
+</nav>
+<div style="padding-left:30px">
+  <div id="slide-out" class="sidenav" style="padding-left:30px;display: flex; flex-direction: column; align-items: center; justify-content: space-evenly">
+        {% for category in site.categories %}
+          <div><a class="order-seter">{{category[0]}}</a></div>
+        {% endfor %}
+  </div>
+
+</div>
+  <a id="slider" href="#" data-target="slide-out" class="sidenav-trigger btn-floating btn-large black"><i class="material-icons black">filter</i></a>
+
+
+<div style="display:flex; flex-direction: column;">
+    <div  class="row"  style="display:flex; flex-direction:column;justify-content: center; align-items: center">
+        <div class="space-font">
+            <h3>&nbsp;This is a blogging attempt,</h3> <code style="float:right; padding-right: 70px">by Suciu Sergiu</code>
+        </div>
+        <br />
+        <br />
+        <div class="col s10 m10 offset-s1 offset-m1">
+            <h5 class="space-font ">I'll try to keep this up to date with </h5>
+            <h5>
+              <span class="typer space-font" id="main" 
+                    data-words="what I work on.,my reading list.,things that interests me." 
+                    data-colors="rgb(0,0,0,0.87)" 
+                    data-delay="100" 
+                    data-deleteDelay="2000"></span>
+              <span class="cursor" data-owner="main"></span>
+            </h5>
+        </div>
+    </div>
+    <br />
+    <div style="display:flex;" class="row">
+        
+        
+        <div>
+        
+                {% for post in site.posts %}
+
+                <div class="row">
+                        <div class="col s10 m10 offset-s1 offset-m1">
+                          <div class="card ">
+                            <div class="card-content ">
+                              <span class="card-title space-font">{{ post.title}}</span>
+                              <p>{{post.description}}</p>
+                            </div>
+                            <div class="card-action" style="display:flex;justify-content:space-between">
+                              <span>{{ post.date | date: "%b %-d, %Y" }}</span>
+                              <a class="order-seter" style="text-transform: none;font-size: 14px;color: rgba(0, 0, 0, 0.87)" href="#">View details</a>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                {% endfor %}
+
+        </div>
+        
+    </div>
+</div>

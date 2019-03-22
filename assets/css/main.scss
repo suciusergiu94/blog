@@ -1,0 +1,68 @@
+---
+# comment to be compiled
+---
+
+.space-font {
+	font-family: 'Space Mono', monospace;
+}
+
+$red: rgb(0, 0, 0);
+$whitey: #f0f0f0;
+
+$duration: .2s;
+$distance: 8px;
+$easeOutBack: cubic-bezier(0.175, 0.885, 0.320, 1.275);
+
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:700);
+
+a.order-seter{
+    color: #000;
+  font-size: 20px;
+  position: relative !important;
+  text-transform: uppercase;
+  text-decoration: none !important;
+  padding-bottom: 8px !important;
+
+   &:before,
+	&:after {
+		content: '';
+		position: absolute;
+		bottom: 2px;
+		left: 0; right: 0;
+		height: 2px;
+		background-color: $red;
+	}
+	&:before {
+		opacity: 0;
+		transform: translateY(- $distance);
+		transition: transform 0s $easeOutBack, opacity 0s;
+	}
+	&:after {
+		opacity: 0;
+		transform: translateY($distance/2);
+		transition: transform $duration $easeOutBack, opacity $duration;
+	}
+	&:hover,
+	&:focus {
+		&:before,
+		&:after {
+			opacity: 1;
+			transform: translateY(0);
+		}
+		&:before {
+			transition: transform $duration $easeOutBack, opacity $duration;
+		}
+		&:after {
+			transition: transform 0s $duration $easeOutBack, opacity 0s $duration;
+		}
+	}
+}
+
+#slider {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 70px
+}
+
+body::-webkit-scrollbar { width: 0 !important }
