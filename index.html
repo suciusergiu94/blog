@@ -10,8 +10,9 @@ layout: home
 </nav>
 <div style="padding-left:30px">
   <div id="slide-out" class="sidenav" style="padding-left:30px;display: flex; flex-direction: column; align-items: center; justify-content: space-evenly">
-        {% for category in site.categories %}
-          <div><a class="order-seter">{{category[0]}}</a></div>
+      <div><a class="order-seter order-button" data-order="all">show all</a></div>    
+    {% for category in site.categories %}
+          <div><a class="order-seter order-button" data-order="{{category[0]}}">{{category[0]}}</a></div>
         {% endfor %}
   </div>
 
@@ -42,11 +43,11 @@ layout: home
     <div style="display:flex;" class="row">
         
         
-        <div>
+        <div class="grid" style="display:flex; flex-direction:column">
         
                 {% for post in site.posts %}
 
-                <div class="row">
+                <div style="overflow:hidden" data-date="{{ post.date | date: "%Y-%m-%d" }}" class="row grid-item {{post.categories | join ' ' }}">
                         <div class="col s10 m10 offset-s1 offset-m1">
                           <div class="card ">
                             <div class="card-content ">

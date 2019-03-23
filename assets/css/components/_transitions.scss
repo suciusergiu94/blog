@@ -1,7 +1,7 @@
 // Scale transition
 .scale-transition {
   &.scale-out {
-    transform: scale(0);
+    transform: scale(0) !important;
     transition: transform .2s !important;
   }
 

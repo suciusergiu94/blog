@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "This is for tag testing!"
-date:   2019-03-21 20:23:09 +0200
+title:  "Movie 2"
+date:   2018-03-23 20:23:09 +0200
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eget ornare lorem. Praesent dui ligula, fringilla in lacinia in, finibus id dolor. Sed pretium volutpat quam, eu mattis dui suscipit vitae. Aenean nec sollicitudin lorem. Donec sit amet suscipit augue. Maecenas in gravida felis. Nulla sollicitudin sollicitudin rutrum. Phasellus orci elit, aliquam vitae libero id, vehicula condimentum purus.
-categories: tags category
+categories: movie
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

@@ -66,3 +66,16 @@ a.order-seter{
 }
 
 body::-webkit-scrollbar { width: 0 !important }
+
+@keyframes zoom-in {
+	0% {
+	 transform: scale(.1);
+	}
+	100% {
+	  transform: none;
+	}
+  }
+
+  .is-animated {
+	animation: .6s zoom-in;
+  }
