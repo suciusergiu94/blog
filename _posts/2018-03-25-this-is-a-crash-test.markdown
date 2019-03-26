@@ -4,6 +4,7 @@ title:  "Movie 3"
 date:   2018-03-25 20:23:09 +0200
 description: Etiam ultrices elit ac placerat fringilla. Quisque a justo lobortis, pharetra metus vitae, pharetra sapien. Nulla fermentum gravida lacus, sit amet sagittis dui maximus sit amet. Aenean auctor nulla eget dolor sagittis, ac rutrum justo laoreet. Sed quis turpis sit amet odio laoreet posuere. In fermentum a velit eget aliquet. Curabitur tempus scelerisque finibus. Ut mi tellus, porta vitae consequat ullamcorper, volutpat ut nulla. Sed augue purus, faucibus sed commodo sed, laoreet quis nulla.
 categories: test ordering movie
+author: Like Mike
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

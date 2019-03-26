@@ -1,25 +1,46 @@
+---
+---
 <!DOCTYPE html>
 <head>
-    <meta name=viewport content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-    <link rel="stylesheet" href="{{ "/assets/css/material.css" | relative_url }}">
-    <link rel="stylesheet" href="{{ "/assets/css/tailwind.css" | relative_url }}">
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono|Space+Mono:700" rel="stylesheet">
-    <title>Sergiu's blog &#x1F60E;</title>
+  <meta name=viewport content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+  <link rel="stylesheet" href="{{ "/assets/css/material.css" | relative_url }}">
+  <link rel="stylesheet" href="{{ "/assets/css/tailwind.css" | relative_url }}">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Mono|Space+Mono:700" rel="stylesheet">
+  <title>Sergiu's blog &#x1F60E;</title>
 </head>
 <html>
-  <body class="black-bg row">
-    <div class="col s10 m10 offset-s1 offset-m1 flex flex-column">
-        <div></div>
-        <div>
-            {{ content }}
+<body class="black-bg row">
+
+  <a href="/" id="back-button" class="btn-floating btn-large black"><i class="material-icons black">undo</i></a>
+  <br/>
+  <div style="display:flex; flex-direction: column;">
+    <div class="flex flex-col justify-center items-center">
+      <div class="space-font">
+        <h3 class="text-center">{{page.title}}</h3>  <code style="float:right; padding-right: 70px">{% if page.author %} by {{page.author}} {% else %} by Suciu Sergiu {% endif %}</code>
+      </div>
+      <br />
+      <br />
+      <div class="row w-full">
+        <div class="col s10 m10 offset-s1 offset-m1 text-left">
+          <h5 class="space-font">{{page.description}}</h5>
         </div>
-        
+      </div>
     </div>
-    <script src='{{ "/assets/js/materialize.min.js" | relative_url }}'></script>
-    <script src='{{ "/assets/js/jquery.js" | relative_url }}'></script>
-    <script src='{{ "/assets/js/main.js" | relative_url }}'></script>
-    <script src='{{ "/assets/js/typer.js" | relative_url }}'></script>
-  </body>
+    <br />
+    <div class="col s10 m10 offset-s1 offset-m1 text-left">
+      {{ content }}
+    </div>
+  </div>    
+  <br />
+  <br />
+  <br />
+  <br />
+  
+  <script src='{{ "/assets/js/materialize.min.js" | relative_url }}'></script>
+  <script src='{{ "/assets/js/jquery.js" | relative_url }}'></script>
+  <script src='{{ "/assets/js/main.js" | relative_url }}'></script>
+  <script src='{{ "/assets/js/typer.js" | relative_url }}'></script>
+</body>
 </html>
