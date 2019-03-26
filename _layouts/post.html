@@ -1,15 +1,21 @@
 <!DOCTYPE html>
 <head>
+    <meta name=viewport content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/material.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/tailwind.css" | relative_url }}">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto+Mono|Space+Mono:700" rel="stylesheet">
     <title>Sergiu's blog &#x1F60E;</title>
 </head>
 <html>
   <body class="black-bg row">
-    <div class="col s10 m10 offset-s1 offset-m1">
-        {{ content }}
+    <div class="col s10 m10 offset-s1 offset-m1 flex flex-column">
+        <div></div>
+        <div>
+            {{ content }}
+        </div>
+        
     </div>
     <script src='{{ "/assets/js/materialize.min.js" | relative_url }}'></script>
     <script src='{{ "/assets/js/jquery.js" | relative_url }}'></script>

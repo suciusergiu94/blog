@@ -21,23 +21,25 @@ layout: home
 
 
 <div style="display:flex; flex-direction: column;">
-    <div  class="row"  style="display:flex; flex-direction:column;justify-content: center; align-items: center">
+    <div class="flex flex-col justify-center items-center">
         <div class="space-font">
-            <h3>&nbsp;This is a blogging attempt,</h3> <code style="float:right; padding-right: 70px">by Suciu Sergiu</code>
+            <h3 class="text-center">&nbsp;This is a blogging attempt,</h3> <code style="float:right; padding-right: 70px">by Suciu Sergiu</code>
         </div>
         <br />
         <br />
-        <div class="col s10 m10 offset-s1 offset-m1">
-            <h5 class="space-font ">I'll try to keep this up to date with </h5>
-            <h5>
-              <span class="typer space-font" id="main" 
+        <div class="row w-full">
+            <div class="col s10 m10 offset-s1 offset-m1 text-left">
+                <h5 class="space-font" style="line-height:2.2;">I'll try to keep this up to date with </h5>
+                <h5>
+                    <span class="typer space-font" id="main" 
                     data-words="what I work on.,my reading list.,things that interests me." 
                     data-colors="rgb(0,0,0,0.87)" 
                     data-delay="100" 
                     data-deleteDelay="2000"></span>
               <span class="cursor" data-owner="main"></span>
-            </h5>
-        </div>
+                </h5>
+            </div>
+          </div>
     </div>
     <br />
     <div style="display:flex;" class="row">
