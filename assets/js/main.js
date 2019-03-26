@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded', function() {
     window.instances = M.Sidenav.init(elems, options);
 })
 
-var $filters = $('.order-seter'),
+var $filters = $('.order-seter.order-button'),
 $boxes = $('.grid-item');
 
 $filters.on('click', function(e) {
