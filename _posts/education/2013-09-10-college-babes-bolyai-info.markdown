@@ -25,7 +25,7 @@ I also came 3rd on a programming competition organised by the [Babes Bolyai Univ
 
 <br />
 
-By the end of 2015 I started working at [SoftVision][sv] and dropped out on studying.
+At the end of 2015 I started working at [SoftVision][sv] and dropped out on studying.
 
 [ubb]: http://www.cs.ubbcluj.ro/
 [isj]: https://www.isjcj.ro/
