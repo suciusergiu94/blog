@@ -7,9 +7,9 @@ categories: work-experience
 ---
 In June 2017 I started working at [Life is hard][lih] as a PHP Developer.
 <br/>
-I mainly worked fullstack both doing development and support on various projects using PHP for backend and and JQuery + Bootstrap for frontend.
+I'm mainly working fullstack both doing development and support on various projects. Mostly I'm using PHP for backend and and JQuery + Bootstrap for frontend trying to migrate to tailwind, and Vue.
 <br>
-Here I've worked on both company products and software for different clients in the fields of:&nbsp;&nbsp;road/railroad transportation and online auctioning.
+Here I am working on both company products and software for different clients in the fields of:&nbsp;&nbsp;road/railroad transportation and online auctioneering.
 <br />
 <br />
 Technologies and methodologies I've worked with:
@@ -26,9 +26,6 @@ Technologies and methodologies I've worked with:
 * Redis
 * Jira
 
-<br />
-<br />
-I currently work here.
 
 [altom]: https://altom.com/
 [sbtm]: http://www.satisfice.com/sbtm/
