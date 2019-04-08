@@ -12,9 +12,8 @@ I started working at [SoftVision][sv] in November 2015 after a pre-employment tr
 We worked in an agile way as an extension to the client's team for a CRM solution.<br />
 I mainly did maintenance work fixing front/back end bugs on the modules my team were responsible for. 
 <br />
+<br />
 Also I implemented a few new requirements and spent my time getting familiar with:
-<br />
-<br />
 
 * Linux
 * PHP
@@ -30,8 +29,7 @@ Also I implemented a few new requirements and spent my time getting familiar wit
 
 <br/>
 <br/>
-<br/>
-In January 2017, I stopped working on the CRM project so I decided to change my job as well as a Web Developer for [Altom][altom]. 
+I stopped working on the CRM project in January 2017 so I decided to change my job as a Web Developer for [Altom][altom]. 
 
 [sv]: https://www.softvision.ro/
 [altom]: https://altom.com/

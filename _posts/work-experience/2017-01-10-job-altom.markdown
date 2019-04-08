@@ -21,6 +21,8 @@ Technologies and methodologies I've worked with:
 * Docker
 * TDD
 * Worldpress
+<br />
+<br />
 
 I stopped working for Altom in March 2017 and took a small break. After that I started working at [Life is hard, Work Soft][lih] which is my current Job.
 
