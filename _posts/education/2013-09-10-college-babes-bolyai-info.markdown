@@ -15,7 +15,7 @@ The main subjects that I studied where mathematics, algorithms, data structures,
 <br />
 <br />
 
-I did my apprenticeship for [ISJ Cluj][isj] where we (me and my team) implemented a forum for their internal use.
+I did my apprenticeship for [ISJ Cluj][isj] where my team an I implemented a forum for their internal use.
 We used PHP and the phpBB forum software (with their custom needs teaks) for the backend and basic HTML, CSS and Javascript for the frontend.
 
 <br />
