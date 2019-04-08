@@ -10,7 +10,7 @@ I started working at [SoftVision][sv] in November 2015 after a pre-employment tr
 <br />
 <br />
 We worked in an agile way as an extension to the client's team for CRM solution.<br />
-I mainly did support fixing front and backend bugs on the modules my team were responsible for. 
+I mainly did Maintenance work fixing front and back end bugs on the modules my team were responsible for. 
 <br />
 But I also implemented a few development tasks and took my time beeing familiar with:
 <br />
