@@ -9,10 +9,10 @@ categories: work-experience
 I started working at [SoftVision][sv] in November 2015 after a pre-employment training / bootcamp on web technologies. 
 <br />
 <br />
-We worked in an agile way as an extension to the client's team for CRM solution.<br />
-I mainly did Maintenance work fixing front and back end bugs on the modules my team were responsible for. 
+We worked in an agile way as an extension to the client's team for a CRM solution.<br />
+I mainly did maintenance work fixing front/back end bugs on the modules my team were responsible for. 
 <br />
-But I also implemented a few development tasks and took my time beeing familiar with:
+Also I implemented a few new requirements and spent my time getting familiar with:
 <br />
 <br />
 
