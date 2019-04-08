@@ -8,7 +8,7 @@ categories: work-experience
 I started working at [Altom][altom] as a Web Developer in Jannuary 2017.
 <br/>
 <br/>
-In my short period working here I was responsible with some maintance work on their wordpress company site alongside with developing an internal [SBTM][sbtm] chrome / developer tools app.
+I was responsible with some maintance work on their wordpress company site alongside with developing an internal [SBTM][sbtm] chrome / developer tools app.
 <br />
 <br />
 Technologies and methodologies I've worked with:
