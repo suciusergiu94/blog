@@ -6,6 +6,15 @@
 	font-family: 'Space Mono', monospace !important; 
 }
 
+.grid {
+	width: 100%
+}
+
+.row .grid-item {
+	margin-left: 0;
+	margin-right: 0;
+}
+
 $red: rgb(0, 0, 0);
 $whitey: #f0f0f0;
 

@@ -1,0 +1,35 @@
+---
+layout: post
+title:  College
+date:   2013-09-10 08:00:00 +0200
+description: Babes Bolyai University of Cluj - Informatics
+categories: education
+---
+
+Bettween 2013-2017 I've studied informatics at [Babes Bolyai University of Cluj][ubb].
+
+<br />
+
+The main subjects were mathematics, algorithms, data structures, design patters, networking and operation systems, 
+programming languages (Java, C#, c++, python, PHP, JS, Lisp, Prolog, Visual Basic, Bash) and databases (Microsoft SQL, MySql)
+
+<br />
+<br />
+
+I did my apprenticeship for [ISJ Cluj][isj] where we (me and my team) implemented a forum for their internal use.
+We used PHP and the phpBB forum software (with their custom needs teaks) for the backend and basic HTML, CSS and Javascript for the frontend.
+
+<br />
+<br />
+
+I also came 3rd on a programming competition organised by the [Babes Bolyai University of Cluj][ubb] competing agaist other Informatics students who did their apprenticeship with the [PRACT-IT][pract-it] programee
+
+<br />
+
+By the end of 2015 I started working at [SoftVision][sv] and dropped out on studying.
+
+[ubb]: http://www.cs.ubbcluj.ro/
+[isj]: https://www.isjcj.ro/
+[pract-it]: https://econ.ubbcluj.ro/stire.php?id=197/
+[sv]: https://www.softvision.com/
+
