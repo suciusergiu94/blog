@@ -6,7 +6,7 @@ description: Babes Bolyai University of Cluj - Informatics
 categories: education
 ---
 
-I've studied informatics at [Babes Bolyai University of Cluj][ubb] between 2013-2017 .
+I studied informatics at [Babes Bolyai University of Cluj][ubb] between 2013-2017 .
 
 <br />
 
