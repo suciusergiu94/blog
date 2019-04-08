@@ -6,7 +6,7 @@ description: PHP Developer
 categories: work-experience
 ---
 
-I started working at [SoftVision][sv] in november 2015 after a pre-employment training / bootcamp on web technologies. 
+I started working at [SoftVision][sv] in November 2015 after a pre-employment training / bootcamp on web technologies. 
 <br />
 <br />
 We worked in an agile way as an extension to the client's team for CRM solution.<br />
