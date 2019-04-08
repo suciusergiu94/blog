@@ -1,0 +1,29 @@
+---
+layout: post
+title:  Altom
+date:   2017-01-10 08:00:00 +0200
+description: Web Developer
+categories: work-experience
+---
+In Jannuary 2017 I started working at [Altom][altom] as a Web Developer.
+<br/>
+<br/>
+In my short period working here I was responsible with some maintance work on their wordpress company site alongside with developing an internal [SBTM][sbtm] chrome / developer tools app.
+<br />
+<br />
+Technologies and methodologies I've worked with:
+
+* Node.js
+* Git
+* Ember.js
+* Electron
+* MongoDB
+* Docker
+* TDD
+* Worldpress
+
+In March 2017 I've stoped working for Altom, took a small break, started working for [Life is hard, Work Soft][lih].
+
+[altom]: https://altom.com/
+[sbtm]: http://www.satisfice.com/sbtm/
+[lih]: https://www.lifeishard.ro/

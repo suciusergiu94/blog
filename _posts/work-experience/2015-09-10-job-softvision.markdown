@@ -21,9 +21,11 @@ But I also implemented a few developement tasks and took my time beeing familiar
 * DB2
 * JavaScript (JQuery)
 * JavaScript (Backbone)
+* Python
 * Git
 * composer
 * DB2
+* Jira
 * HTML/CSS
 
 <br/>
