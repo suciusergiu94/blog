@@ -8,7 +8,7 @@ categories: work-experience
 I started working at [Altom][altom] as a Web Developer in Jannuary 2017.
 <br/>
 <br/>
-I was responsible with some maintanance work on their wordpress company site alongside with developing an internal [SBTM][sbtm] chrome / developer tools app.
+I was responsible with some maintenance work on their wordpress company site alongside with developing an internal [SBTM][sbtm] chrome / developer tools app.
 <br />
 <br />
 Technologies and methodologies I've worked with:
@@ -22,7 +22,7 @@ Technologies and methodologies I've worked with:
 * TDD
 * Worldpress
 
-In March 2017 I've stoped working for Altom, took a small break, started working for [Life is hard, Work Soft][lih].
+In March 2017 I stopped working for Altom, took a small break, and started working for [Life is hard, Work Soft][lih].
 
 [altom]: https://altom.com/
 [sbtm]: http://www.satisfice.com/sbtm/

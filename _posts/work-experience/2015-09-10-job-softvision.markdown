@@ -31,7 +31,7 @@ But I also implemented a few development tasks and took my time beeing familiar 
 <br/>
 <br/>
 <br/>
-In January 2017, I stoped working on the CRM project so I decided to change my job as well as a Web Developer for [Altom][altom]. 
+In January 2017, I stopped working on the CRM project so I decided to change my job as well as a Web Developer for [Altom][altom]. 
 
 [sv]: https://www.softvision.ro/
 [altom]: https://altom.com/
