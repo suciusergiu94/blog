@@ -21,6 +21,8 @@ Technologies and methodologies I've worked with:
 * Docker
 * TDD
 * Worldpress
+
+<br />
 <br />
 <br />
 
