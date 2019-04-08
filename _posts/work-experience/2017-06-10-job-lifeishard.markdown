@@ -5,7 +5,7 @@ date:   2017-01-10 08:00:00 +0200
 description: PHP Developer
 categories: work-experience
 ---
-In June 2017 I started working at [Life is hard][lih] as a PHP Developer.
+I started working at [Life is hard][lih] as a PHP Developer in June 2017.
 <br/>
 I'm mainly working fullstack both doing development and support on various projects. Mostly I'm using PHP for backend and and JQuery + Bootstrap for frontend trying to migrate to tailwind, and Vue.
 <br>
