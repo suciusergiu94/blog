@@ -1,5 +1,7 @@
 
-localStorage.setItem('s-blog.filter', 'all')
+if(!localStorage.getItem('s-blog.filter')) {
+  localStorage.setItem('s-blog.filter', 'all')
+}
 
 
 function sortMeBy(arg, sel, elem, order) {
