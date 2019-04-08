@@ -21,7 +21,7 @@ We used PHP and the phpBB forum software (with their custom needs teaks) for the
 <br />
 <br />
 
-I also came 3rd on a programming competition organised by the [Babes Bolyai University of Cluj][ubb] competing agaist other Informatics students who did their apprenticeship with the [PRACT-IT][pract-it] programee
+I also came 3rd on a programming competition organised by the [Babes Bolyai University of Cluj][ubb] competing against other Informatics students who did their apprenticeship with the [PRACT-IT][pract-it] programee.
 
 <br />
 
