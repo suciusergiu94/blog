@@ -4,6 +4,7 @@ title:  SoftVision
 date:   2015-09-10 08:00:00 +0200
 description: PHP Developer
 categories: work-experience
+icon: business_center
 ---
 
 I started working at [SoftVision][sv] in November 2015 after a pre-employment training / bootcamp on web technologies. 

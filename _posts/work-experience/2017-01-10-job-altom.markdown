@@ -4,6 +4,7 @@ title:  Altom
 date:   2017-01-10 08:00:00 +0200
 description: Web Developer
 categories: work-experience
+icon: business_center
 ---
 I started working at [Altom][altom] as a Web Developer in Jannuary 2017.
 <br/>
