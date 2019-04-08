@@ -7,7 +7,7 @@ categories: work-experience
 ---
 In June 2017 I started working at [Life is hard][lih] as a PHP Developer.
 <br/>
-I mainly worked fullstack both doing developement and support on various projects using PHP for backend and and JQuery + Bootstrap for frontend.
+I mainly worked fullstack both doing development and support on various projects using PHP for backend and and JQuery + Bootstrap for frontend.
 <br>
 Here I've worked on both company products and software for different clients in the fields of:&nbsp;&nbsp;road/railroad transportation and online auctioning.
 <br />
