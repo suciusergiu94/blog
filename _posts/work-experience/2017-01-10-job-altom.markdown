@@ -22,7 +22,7 @@ Technologies and methodologies I've worked with:
 * TDD
 * Worldpress
 
-In March 2017 I stopped working for Altom, took a small break, and started working for [Life is hard, Work Soft][lih].
+I stopped working for Altom in March 2017, and after a small break, I and started working for [Life is hard, Work Soft][lih].
 
 [altom]: https://altom.com/
 [sbtm]: http://www.satisfice.com/sbtm/
