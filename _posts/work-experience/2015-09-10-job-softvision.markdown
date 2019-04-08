@@ -13,7 +13,7 @@ We worked in an agile way as an extension to the client's team for a CRM solutio
 I mainly did maintenance work fixing front/back end bugs on the modules my team were responsible for. 
 <br />
 <br />
-Also I implemented a few new requirements and spent my time getting familiar with:
+Also, I implemented a few new requirements and spent my time getting familiar with:
 
 * Linux
 * PHP
