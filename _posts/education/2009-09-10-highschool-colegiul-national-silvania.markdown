@@ -3,7 +3,7 @@ layout: post
 title:  Highschool
 date:   2009-09-10 08:00:00 +0200
 description: "\"Silvania\" National College - Intensive Informatics"
-icon: library_books
+icon: school
 categories: education
 ---
 

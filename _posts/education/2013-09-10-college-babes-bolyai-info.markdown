@@ -3,7 +3,7 @@ layout: post
 title:  College
 date:   2013-09-10 08:00:00 +0200
 description: Babes Bolyai University of Cluj - Informatics
-icon: library_books
+icon: school
 categories: education
 ---
 
