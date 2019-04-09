@@ -146,7 +146,8 @@
       margin: 0;
     }
     .card-title {
-      display: block;
+      display: flex;
+      justify-content: space-between;
       line-height: 32px;
       margin-bottom: 8px;
 
