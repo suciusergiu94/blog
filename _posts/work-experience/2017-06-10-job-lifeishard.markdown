@@ -4,7 +4,7 @@ title:  Life is Hard
 date:   2017-01-10 08:00:00 +0200
 description: PHP Developer
 categories: work-experience
-icon: business_center
+icon: work
 ---
 I started working at [Life is hard][lih] as a PHP Developer in June 2017.
 <br/>
