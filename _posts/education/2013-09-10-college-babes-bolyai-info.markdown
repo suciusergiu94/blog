@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  College
+title:  College - Informatics
 date:   2013-09-10 08:00:00 +0200
-description: Babes Bolyai University of Cluj - Informatics
+description: Babes Bolyai University of Cluj
 icon: school
 categories: education
 ---
