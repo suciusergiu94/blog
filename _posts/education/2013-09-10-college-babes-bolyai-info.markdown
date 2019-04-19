@@ -11,7 +11,7 @@ I studied informatics at [Babes Bolyai University of Cluj][ubb] between 2013-201
 
 <br />
 
-The main subjects that I learned where mathematics, algorithms, data structures, design patters, networking and operation systems, programming languages (Java, C#, c++, python, PHP, JS, Lisp, Prolog, Visual Basic, Bash) and databases (Microsoft SQL, MySql)
+The main subjects that I learned were mathematics, algorithms, data structures, design patters, networking and operation systems, programming languages (Java, C#, c++, python, PHP, JS, Lisp, Prolog, Visual Basic, Bash) and databases (Microsoft SQL, MySql)
 
 <br />
 <br />
